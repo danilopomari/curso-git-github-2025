@@ -4,3 +4,6 @@ Esse arquivo tem comandos secundarios de git
 - segundo comando
 - terceiro comando
 - quarto comando
+
+# comandos mais genericos
+- comandos estranhos
