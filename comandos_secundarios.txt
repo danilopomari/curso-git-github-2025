@@ -7,4 +7,17 @@ Esse arquivo tem comandos secundarios de git
 - segundo comando
 - terceiro comando
 - quarto comando
+<<<<<<< HEAD
+>>>>>>> secundaria
+=======
+
+# comandos mais genericos
+- comandos estranhos
+
+# mais comandos
+
+sefser
+werwerwe
+werwer
+werwer
 >>>>>>> secundaria
