@@ -1,4 +1,10 @@
 Esse arquivo tem comandos secundarios de git 
 
 - primeiro comando
+<<<<<<< HEAD
 - segundo comando
+=======
+- segundo comando
+- terceiro comando
+- quarto comando
+>>>>>>> secundaria
