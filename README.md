@@ -10,7 +10,9 @@ Além disso, vamos trabalhar com
 Visual Studio Code.
 
 Confira tudo o que temos no 
-nosso YouTube. É gratis!
+nosso YouTube. É gratis! Segue o link:
+
+[Curso Git 2025](https://youtube.com/@teomewhy)
 
 
 ---------------------------
